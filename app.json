@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PrimeStay",
-    "slug": "prime",
+    "slug": "primestay",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/PrimeStay-Icon.png",
@@ -10,7 +10,6 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-     
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -24,7 +23,6 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-     
       "versionCode": 1
     },
     "web": {
@@ -54,9 +52,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "b501f448-e7c3-432d-b90a-3d6406901e9d"
+        "projectId": "030c83ea-72aa-40c9-b124-4bb915e66fec"
       }
     },
     "owner": "chidimma3"
-      }
+  }
 }
