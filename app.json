@@ -25,7 +25,7 @@
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "package": "com.chidimma2.PrimeStay",
-         "versionCode": 1
+      "versionCode": 1
     },
     "web": {
       "output": "static",
@@ -58,9 +58,7 @@
       }
     },
     "owner": "chidimma2",
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
+    "runtimeVersion": "1.0.0",
     "updates": {
       "url": "https://u.expo.dev/60996d8e-aac4-48e4-9fd8-a97792ee90ab"
     }
