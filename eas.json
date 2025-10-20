@@ -1,7 +1,7 @@
 ﻿{
   "cli": {
     "version": ">= 13.2.0",
-     "appVersionSource": "app.json"
+     "appVersionSource": "local"
   },
   "build": {
     "development": {

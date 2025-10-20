@@ -24,7 +24,8 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.chidimma2.PrimeStay"
+      "package": "com.chidimma2.PrimeStay",
+         "versionCode": 1
     },
     "web": {
       "output": "static",
