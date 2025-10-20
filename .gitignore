@@ -8,8 +8,6 @@ dist/
 web-build/
 
 # Native (EAS Build generates these)
-android/
-ios/
 
 # Unnecessary folders
 app-example/
