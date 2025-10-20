@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PrimeStay",
-    "slug": "primestay",
+    "slug": "prime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/PrimeStay-Icon.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.chidimma3.PrimeStay",
+     
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -24,7 +24,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.chidimma3.PrimeStay",
+     
       "versionCode": 1
     },
     "web": {
