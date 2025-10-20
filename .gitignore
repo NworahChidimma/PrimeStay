@@ -1,34 +1,8 @@
-﻿# Dependencies
 node_modules/
-
-# Expo
 .expo/
-.expo-shared/
-dist/
-web-build/
-
-# Native (EAS Build generates these)
-
-
-# Environment
+android/
+ios/
 .env
-.env*.local
-
-# Logs
-npm-debug.*
-yarn-debug.*
-yarn-error.*
-*.log
-
-# OS
 .DS_Store
-*.pem
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-# Build artifacts
-*.tar.gz
+*.log
 .cache/
