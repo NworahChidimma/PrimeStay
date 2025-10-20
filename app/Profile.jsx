@@ -15,7 +15,7 @@ import React, { useEffect, useLayoutEffect, useState } from "react";
 import { useNavigation } from "@react-navigation/native";
 import { router } from "expo-router";
 import { auth } from "./firebase";
-import LogIn from "./(auth)/login";
+import LogIn from "./auth/login";
 export default function Profile() {
   const { width, height } = Dimensions.get("screen");
   const navigation = useNavigation()
@@ -23,7 +23,7 @@ export default function Profile() {
     auth
     .signOut()
     .then(() =>{
-        router.push('/(auth)/login')
+        router.push('/auth/login')
     })
     .catch(error =>alert(error.message))
 
