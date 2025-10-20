@@ -9,9 +9,6 @@ web-build/
 
 # Native (EAS Build generates these)
 
-# Unnecessary folders
-app-example/
-components/
 
 # Environment
 .env
