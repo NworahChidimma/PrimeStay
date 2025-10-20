@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.chidimma2.PrimeStay",
+      "bundleIdentifier": "com.chidimma3.PrimeStay",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -24,7 +24,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.chidimma2.PrimeStay",
+      "package": "com.chidimma3.PrimeStay",
       "versionCode": 1
     },
     "web": {
@@ -54,9 +54,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "60996d8e-aac4-48e4-9fd8-a97792ee90ab"
+        "projectId": "b501f448-e7c3-432d-b90a-3d6406901e9d"
       }
     },
-    "owner": "chidimma2"
+    "owner": "chidimma3"
       }
 }
