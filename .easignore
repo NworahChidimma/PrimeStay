@@ -1,0 +1,12 @@
+﻿node_modules
+.expo
+android
+ios
+app-example
+components
+dist
+web-build
+.git
+.vscode
+*.log
+*.tar.gz

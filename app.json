@@ -1,0 +1,67 @@
+{
+  "expo": {
+    "name": "PrimeStay",
+    "slug": "primestay",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/PrimeStay-Icon.png",
+    "scheme": "primestay",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.chidimma2.PrimeStay",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/PrimeStay-Logo.png",
+        "backgroundImage": "./assets/images/PrimeStay-Logo.png",
+        "monochromeImage": "./assets/images/PrimeStay-Logo.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.chidimma2.PrimeStay"
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/aerohaven-logo.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/aerohaven-logo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "60996d8e-aac4-48e4-9fd8-a97792ee90ab"
+      }
+    },
+    "owner": "chidimma2",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/60996d8e-aac4-48e4-9fd8-a97792ee90ab"
+    }
+  }
+}
